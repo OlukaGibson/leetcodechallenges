@@ -27,6 +27,6 @@ public:
         }
 
         // Return the longest palindromic substring
-        return s.substr(start, maxLength);
+        return s.substr(start, maxLength); 
     }
 };
