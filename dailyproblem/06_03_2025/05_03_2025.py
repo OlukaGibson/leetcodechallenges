@@ -16,3 +16,4 @@ class Solution:
 
         missing = expected_sum - (total_sum - repeated)  # Correct the sum by subtracting duplicate
         return [repeated, missing]
+
